@@ -1,6 +1,6 @@
 # ⚡ Energia
 
-[![Discord](https://img.shields.io/discord/Energia?color=blue&label=Join%20Discord)](https://discord.gg/uJPCNfgcGf)  
+[![Discord](https://img.shields.io/badge/Join%20Discord%20%7C%20Energia-Online-blue?logo=discord)](https://discord.gg/uJPCNfgcGf)
 [![License: Custom](https://img.shields.io/badge/License-Custom-red)](https://github.com/InfernusScriptz/Energia-Executor/blob/main/LICENSE)
 
 ### Unleash the Power of Scripting! 🚀
